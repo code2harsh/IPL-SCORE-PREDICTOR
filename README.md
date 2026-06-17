@@ -41,6 +41,6 @@ python generate_and_train.py
 
 > 🏏 Try the app live — no installation needed!
 
-**👉 [https://ipl-score-predictor-ai.streamlit.app](https://ipl-score-predictor-ai.streamlit.app)**
+**👉 [https://ipl-score-predictor-ai.streamlit.app](https://ipl-score-predictor-6k9t7wprfnpxtjvnwbdsf4.streamlit.app/)**
 
 ---
